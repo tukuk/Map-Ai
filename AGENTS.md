@@ -194,4 +194,4 @@ Backend server structure:
 
 **Last updated:** 2026-07-19  
 **Project repo:** [tukuk/Map-Ai](https://github.com/tukuk/Map-Ai)  
-**Live demo:** [https://tukuk.github.io/Map-Ai/](https://tukuk.github.io/Map-Ai/)
+**Live demo:** [https://map.tukuk.org/](https://map.tukuk.org/)

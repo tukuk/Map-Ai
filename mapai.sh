@@ -9,7 +9,7 @@ PROJECT_ROOT="/home/tukuk/AndroidStudioProjects/MapAi"
 WIKI_DIR="/home/tukuk/AndroidStudioProjects/MapAi-wiki"
 BACKEND_DIR="$PROJECT_ROOT/backend"
 GITHUB_REPO="tukuk/Map-Ai"
-GITHUB_PAGES_URL="https://tukuk.github.io/Map-Ai/"
+GITHUB_PAGES_URL="https://map.tukuk.org/"
 GITHUB_ACTIONS_URL="https://github.com/tukuk/Map-Ai/actions"
 
 # Colors

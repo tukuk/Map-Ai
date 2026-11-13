@@ -9,7 +9,7 @@
 
 Tunggu 1-2 minit, kemudian buka:
 ```
-https://tukuk.github.io/Map-Ai/
+https://map.tukuk.org/
 ```
 
 ## Langkah 2: Aktifkan Wiki

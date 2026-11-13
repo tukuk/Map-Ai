@@ -33,7 +33,7 @@ GitHub Pages hosts static websites directly from your GitHub repository.
    - Wait for `Deploy Live View to GitHub Pages` workflow to complete
    - Your site is live at:
      ```
-     https://tukuk.github.io/Map-Ai/
+     https://map.tukuk.org/
      ```
 
 ### What's Deployed?
@@ -350,7 +350,7 @@ Check:
    - Verify all workflows pass
 
 3. **Test Deployments**
-   - Visit https://tukuk.github.io/Map-Ai/
+   - Visit https://map.tukuk.org/
    - Download APK from Releases
    - Connect Android app to backend
 

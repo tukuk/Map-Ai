@@ -35,7 +35,7 @@ Your project is now fully deployed on **free GitHub services:**
            ↓
 ┌─────────────────────────────────────────────────────┐
 │  WEB LIVE VIEW                                      │
-│  https://tukuk.github.io/Map-Ai/               │
+│  https://map.tukuk.org/               │
 │  (Automatically updated on push)                    │
 └─────────────────────────────────────────────────────┘
 ```
@@ -136,7 +136,7 @@ When you push backend changes:
 ### 3. **deploy-web.yml** (Already Exists)
 **Deploys to GitHub Pages**
 
-Automatically updates: https://tukuk.github.io/Map-Ai/
+Automatically updates: https://map.tukuk.org/
 
 ---
 
@@ -226,7 +226,7 @@ Automatic deployment starts!
 | What | Link |
 |-----|------|
 | **Repository** | https://github.com/tukuk/Map-Ai |
-| **Live Web** | https://tukuk.github.io/Map-Ai/ |
+| **Live Web** | https://map.tukuk.org/ |
 | **Releases (APK)** | https://github.com/tukuk/Map-Ai/releases |
 | **Actions (CI/CD)** | https://github.com/tukuk/Map-Ai/actions |
 | **Secrets Config** | https://github.com/tukuk/Map-Ai/settings/secrets/actions |

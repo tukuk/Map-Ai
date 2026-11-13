@@ -303,7 +303,7 @@ show_all_ids() {
     echo "  GITHUB"
     echo "=========================================="
     echo "  Repository:        https://github.com/tukuk/Map-Ai"
-    echo "  Pages:             https://tukuk.github.io/Map-Ai/"
+    echo "  Pages:             https://map.tukuk.org/"
     echo "  Actions:           https://github.com/tukuk/Map-Ai/actions"
     echo "  Wiki:              https://github.com/tukuk/Map-Ai/wiki"
     echo ""

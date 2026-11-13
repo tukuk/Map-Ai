@@ -631,7 +631,7 @@ Jawab dalam Bahasa Melayu yang tersusun, kemas dan bernas.`;
             headers: {
               "Content-Type": "application/json",
               "Authorization": `Bearer ${orKey}`,
-              "HTTP-Referer": "https://tukuk.github.io/Map-Ai/",
+              "HTTP-Referer": "https://map.tukuk.org/",
               "X-Title": "MapAi Navigation"
             },
             body: JSON.stringify({

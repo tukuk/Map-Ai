@@ -232,7 +232,7 @@ android.injected.signing.key.password=KEY_PASSWORD
 1. Push to `master` branch with changes to `backend/public/`
 2. GitHub Actions automatically deploys to:
    ```
-   https://tukuk.github.io/Map-Ai/
+   https://map.tukuk.org/
    ```
 
 ### For Android APK

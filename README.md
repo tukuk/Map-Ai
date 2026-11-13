@@ -4,7 +4,7 @@
 
 It is designed to run seamlessly across all operating systems: **Android, iOS, Windows, Linux, macOS, Huawei (HarmonyOS), and Smart TVs (Android TV, Fire TV, Apple TV, WebOS, Tizen)**.
 
-🚀 **Live Web View Demo:** [https://tukuk.github.io/Map-Ai/](https://tukuk.github.io/Map-Ai/)  
+🚀 **Live Web View Demo:** [https://map.tukuk.org/](https://map.tukuk.org/)  
 📦 **GitHub Repository:** [https://github.com/tukuk/Map-Ai](https://github.com/tukuk/Map-Ai)
 
 ---

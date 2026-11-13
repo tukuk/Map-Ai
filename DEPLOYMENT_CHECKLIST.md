@@ -166,7 +166,7 @@ gh secret list --repo tukuk/Map-Ai
 ### Verify Deployment
 1. [ ] Check Actions tab for `deploy-web.yml`
 2. [ ] Workflow shows ✅ Complete
-3. [ ] Visit: https://tukuk.github.io/Map-Ai/
+3. [ ] Visit: https://map.tukuk.org/
 4. [ ] Live map appears
 
 ---

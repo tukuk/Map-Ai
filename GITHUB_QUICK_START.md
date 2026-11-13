@@ -34,7 +34,7 @@ https://github.com/tukuk/Map-Ai/actions
 
 ✅ Done! Your app is now:
 - 📱 Building: APK in Releases
-- 🌐 Live: https://tukuk.github.io/Map-Ai/
+- 🌐 Live: https://map.tukuk.org/
 - 🤖 Automated: CI/CD on every push
 
 ---
@@ -44,7 +44,7 @@ https://github.com/tukuk/Map-Ai/actions
 | What | URL |
 |-----|-----|
 | **Repository** | https://github.com/tukuk/Map-Ai |
-| **Live Web View** | https://tukuk.github.io/Map-Ai/ |
+| **Live Web View** | https://map.tukuk.org/ |
 | **Releases (APK)** | https://github.com/tukuk/Map-Ai/releases |
 | **Actions (CI/CD)** | https://github.com/tukuk/Map-Ai/actions |
 | **Secrets Config** | https://github.com/tukuk/Map-Ai/settings/secrets/actions |

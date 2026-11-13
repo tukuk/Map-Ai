@@ -168,7 +168,7 @@ Live view web (Leaflet map) akan di-deploy secara automatik ke GitHub Pages meng
    - Lihat workflow "Deploy Live View to GitHub Pages"
    - Selepas selesai, live view akan tersedia di:
    ```
-   https://tukuk.github.io/Map-Ai/
+   https://map.tukuk.org/
    ```
 
 ### Konfigurasi Socket.IO URL
@@ -226,7 +226,7 @@ curl https://your-backend-url.com/api/health
 
 Buka dalam browser:
 ```
-https://tukuk.github.io/Map-Ai/
+https://map.tukuk.org/
 ```
 
 Anda seharusnya melihat:

@@ -43,7 +43,7 @@ echo ""
 echo "# Monitor deployments"
 echo "# Actions: https://github.com/tukuk/Map-Ai/actions"
 echo "# Releases: https://github.com/tukuk/Map-Ai/releases"
-echo "# Web: https://tukuk.github.io/Map-Ai/"
+echo "# Web: https://map.tukuk.org/"
 echo ""
 
 # === BACKEND DEPLOYMENT ===
