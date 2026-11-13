@@ -23,3 +23,6 @@ backend/data/
 # OS
 Thumbs.db
 node_modules
+
+.env
+dist/
