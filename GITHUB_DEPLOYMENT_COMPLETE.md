@@ -35,7 +35,7 @@ Your project is now fully deployed on **free GitHub services:**
            ↓
 ┌─────────────────────────────────────────────────────┐
 │  WEB LIVE VIEW                                      │
-│  https://fevian448.github.io/Map-Ai/               │
+│  https://tukuk.github.io/Map-Ai/               │
 │  (Automatically updated on push)                    │
 └─────────────────────────────────────────────────────┘
 ```
@@ -136,7 +136,7 @@ When you push backend changes:
 ### 3. **deploy-web.yml** (Already Exists)
 **Deploys to GitHub Pages**
 
-Automatically updates: https://fevian448.github.io/Map-Ai/
+Automatically updates: https://tukuk.github.io/Map-Ai/
 
 ---
 
@@ -198,7 +198,7 @@ Creates: `mapai-release.keystore`
 chmod +x setup-github-secrets.sh
 ./setup-github-secrets.sh
 ```
-Or manually: https://github.com/fevian448/Map-Ai/settings/secrets/actions
+Or manually: https://github.com/tukuk/Map-Ai/settings/secrets/actions
 
 ### Step 3: Push to GitHub
 ```bash
@@ -225,12 +225,12 @@ Automatic deployment starts!
 
 | What | Link |
 |-----|------|
-| **Repository** | https://github.com/fevian448/Map-Ai |
-| **Live Web** | https://fevian448.github.io/Map-Ai/ |
-| **Releases (APK)** | https://github.com/fevian448/Map-Ai/releases |
-| **Actions (CI/CD)** | https://github.com/fevian448/Map-Ai/actions |
-| **Secrets Config** | https://github.com/fevian448/Map-Ai/settings/secrets/actions |
-| **Pages Settings** | https://github.com/fevian448/Map-Ai/settings/pages |
+| **Repository** | https://github.com/tukuk/Map-Ai |
+| **Live Web** | https://tukuk.github.io/Map-Ai/ |
+| **Releases (APK)** | https://github.com/tukuk/Map-Ai/releases |
+| **Actions (CI/CD)** | https://github.com/tukuk/Map-Ai/actions |
+| **Secrets Config** | https://github.com/tukuk/Map-Ai/settings/secrets/actions |
+| **Pages Settings** | https://github.com/tukuk/Map-Ai/settings/pages |
 
 ---
 

@@ -26,7 +26,7 @@
 ## ✅ GitHub Account Setup
 
 ### Repository
-- [ ] Repository created: `fevian448/Map-Ai`
+- [ ] Repository created: `tukuk/Map-Ai`
 - [ ] Repository is public (for GitHub Pages)
 - [ ] `.gitignore` configured:
   ```
@@ -134,7 +134,7 @@ chmod +x setup-github-secrets.sh
 ./setup-github-secrets.sh
 ```
 
-Or manually add to: https://github.com/fevian448/Map-Ai/settings/secrets/actions
+Or manually add to: https://github.com/tukuk/Map-Ai/settings/secrets/actions
 
 ### Required Secrets
 - [ ] `KEYSTORE_BASE64` = (base64 string from keystore)
@@ -148,7 +148,7 @@ Or manually add to: https://github.com/fevian448/Map-Ai/settings/secrets/actions
 
 ### Verify Secrets
 ```bash
-gh secret list --repo fevian448/Map-Ai
+gh secret list --repo tukuk/Map-Ai
 ```
 - [ ] All secrets appear in list
 - [ ] No values exposed
@@ -166,7 +166,7 @@ gh secret list --repo fevian448/Map-Ai
 ### Verify Deployment
 1. [ ] Check Actions tab for `deploy-web.yml`
 2. [ ] Workflow shows ✅ Complete
-3. [ ] Visit: https://fevian448.github.io/Map-Ai/
+3. [ ] Visit: https://tukuk.github.io/Map-Ai/
 4. [ ] Live map appears
 
 ---
@@ -293,8 +293,8 @@ Once all boxes checked:
 ### Announce Release
 ```
 ✅ Version 1.0 Released
-📱 Android APK: github.com/fevian448/Map-Ai/releases
-🌐 Live Web: fevian448.github.io/Map-Ai/
+📱 Android APK: github.com/tukuk/Map-Ai/releases
+🌐 Live Web: tukuk.github.io/Map-Ai/
 🤖 Automated CI/CD: GitHub Actions
 💰 100% Free: No ads, no paywalls
 ```
@@ -316,7 +316,7 @@ Once all boxes checked:
 ## 📝 Notes
 
 **Developer Account:** `fevianbenjo48@gmail.com`
-**Repository:** https://github.com/fevian448/Map-Ai
+**Repository:** https://github.com/tukuk/Map-Ai
 **Support:** See DOCUMENTATION.md for guides
 
 **Last Updated:** 2026-07-19

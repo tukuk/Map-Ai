@@ -24,7 +24,7 @@ This file helps AI coding agents be immediately productive in the MapAi codebase
 # Available commands:
 ./workflow.sh status      # Show git branch, commits, build status
 ./workflow.sh build       # Compile Android debug APK via Gradle
-./workflow.sh push        # Commit and push to GitHub (fevian448/Map-Ai)
+./workflow.sh push        # Commit and push to GitHub (tukuk/Map-Ai)
 ./workflow.sh deploy      # Show backend deployment options
 ./workflow.sh live        # Start backend server locally (Node.js)
 ./workflow.sh wiki        # Push docs to GitHub Wiki (MapAi-wiki repo)
@@ -173,7 +173,7 @@ Backend server structure:
 | Backend won't start | Check `backend/package.json` dependencies: `cd backend && npm install` |
 | GitHub Pages 404 | Enable "GitHub Actions" as source in Settings → Pages; wait 1-2 minutes |
 | Android can't connect to backend | Verify backend URL in Settings (use `http://10.0.2.2:3000` for emulator) |
-| Wiki push fails | Activate wiki at https://github.com/fevian448/Map-Ai/wiki first |
+| Wiki push fails | Activate wiki at https://github.com/tukuk/Map-Ai/wiki first |
 
 ## Key Technologies & Versions
 
@@ -193,5 +193,5 @@ Backend server structure:
 ---
 
 **Last updated:** 2026-07-19  
-**Project repo:** [fevian448/Map-Ai](https://github.com/fevian448/Map-Ai)  
-**Live demo:** [https://fevian448.github.io/Map-Ai/](https://fevian448.github.io/Map-Ai/)
+**Project repo:** [tukuk/Map-Ai](https://github.com/tukuk/Map-Ai)  
+**Live demo:** [https://tukuk.github.io/Map-Ai/](https://tukuk.github.io/Map-Ai/)

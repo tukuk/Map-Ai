@@ -114,7 +114,7 @@ Untuk VPS (Ubuntu/Debian):
 curl -fsSL https://get.docker.com | sh
 
 # Clone repo
-git clone https://github.com/fevian448/Map-Ai.git
+git clone https://github.com/tukuk/Map-Ai.git
 cd Map-Ai
 
 # Build dan run
@@ -168,7 +168,7 @@ Live view web (Leaflet map) akan di-deploy secara automatik ke GitHub Pages meng
    - Lihat workflow "Deploy Live View to GitHub Pages"
    - Selepas selesai, live view akan tersedia di:
    ```
-   https://fevian448.github.io/Map-Ai/
+   https://tukuk.github.io/Map-Ai/
    ```
 
 ### Konfigurasi Socket.IO URL
@@ -226,7 +226,7 @@ curl https://your-backend-url.com/api/health
 
 Buka dalam browser:
 ```
-https://fevian448.github.io/Map-Ai/
+https://tukuk.github.io/Map-Ai/
 ```
 
 Anda seharusnya melihat:
@@ -280,7 +280,7 @@ fly certs add mapai.example.com
    ```
    Type: CNAME
    Name: www
-   Value: fevian448.github.io
+   Value: tukuk.github.io
    ```
    Atau untuk apex domain:
    ```
@@ -376,4 +376,4 @@ Setelah anda push perubahan ke GitHub:
 
 ---
 
-*Untuk bantuan, buka [Issue](https://github.com/fevian448/Map-Ai/issues) di GitHub.*
+*Untuk bantuan, buka [Issue](https://github.com/tukuk/Map-Ai/issues) di GitHub.*

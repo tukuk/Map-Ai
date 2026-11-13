@@ -2,19 +2,19 @@
 
 ## Langkah 1: Aktifkan GitHub Pages
 
-1. Buka browser ke: https://github.com/fevian448/Map-Ai/settings/pages
+1. Buka browser ke: https://github.com/tukuk/Map-Ai/settings/pages
 2. Di bawah **"Build and deployment"** → **Source**
 3. Pilih **"GitHub Actions"**
 4. Klik **Save**
 
 Tunggu 1-2 minit, kemudian buka:
 ```
-https://fevian448.github.io/Map-Ai/
+https://tukuk.github.io/Map-Ai/
 ```
 
 ## Langkah 2: Aktifkan Wiki
 
-1. Buka browser ke: https://github.com/fevian448/Map-Ai/wiki
+1. Buka browser ke: https://github.com/tukuk/Map-Ai/wiki
 2. Klik **"Create the first page"**
 3. Selepas wiki diaktifkan, buka terminal dan jalankan:
 
@@ -94,7 +94,7 @@ mapai all
 - Check tab Actions untuk lihat workflow status
 
 ### Wiki tidak boleh push
-- Pastikan wiki sudah diaktifkan di GitHub (buka https://github.com/fevian448/Map-Ai/wiki)
+- Pastikan wiki sudah diaktifkan di GitHub (buka https://github.com/tukuk/Map-Ai/wiki)
 - Wiki repo akan automatik dibuat oleh GitHub
 
 ### Backend tidak boleh connect
@@ -104,5 +104,5 @@ mapai all
 
 ## Support
 
-- Issues: https://github.com/fevian448/Map-Ai/issues
-- Discussions: https://github.com/fevian448/Map-Ai/discussions
+- Issues: https://github.com/tukuk/Map-Ai/issues
+- Discussions: https://github.com/tukuk/Map-Ai/discussions

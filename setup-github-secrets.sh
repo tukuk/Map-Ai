@@ -5,7 +5,7 @@
 set -e
 
 PROJECT_ROOT="/home/tukuk/AndroidStudioProjects/MapAi"
-REPO="fevian448/Map-Ai"
+REPO="tukuk/Map-Ai"
 
 echo "=========================================="
 echo "  MapAi — GitHub Secrets Setup"

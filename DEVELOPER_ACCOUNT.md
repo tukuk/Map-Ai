@@ -18,7 +18,7 @@ This account is used for:
 ### GitHub Secrets (Encrypted)
 
 Store sensitive credentials in GitHub Repository Secrets:
-https://github.com/fevian448/Map-Ai/settings/secrets/actions
+https://github.com/tukuk/Map-Ai/settings/secrets/actions
 
 **Required Secrets:**
 
@@ -232,7 +232,7 @@ android.injected.signing.key.password=KEY_PASSWORD
 1. Push to `master` branch with changes to `backend/public/`
 2. GitHub Actions automatically deploys to:
    ```
-   https://fevian448.github.io/Map-Ai/
+   https://tukuk.github.io/Map-Ai/
    ```
 
 ### For Android APK
@@ -246,7 +246,7 @@ android.injected.signing.key.password=KEY_PASSWORD
 
 3. Download from **Releases** tab:
    ```
-   https://github.com/fevian448/Map-Ai/releases/latest
+   https://github.com/tukuk/Map-Ai/releases/latest
    ```
 
 ### For Google Play Console (Manual)

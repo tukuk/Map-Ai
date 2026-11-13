@@ -491,7 +491,7 @@ export const ProfileTab: React.FC<ProfileTabProps> = ({
                     type="email"
                     value={inputEmail}
                     onChange={(e) => setInputEmail(e.target.value)}
-                    placeholder="contoh: fevian448@gmail.com"
+                    placeholder="contoh: tukuk@gmail.com"
                     className="w-full bg-slate-900 border border-slate-700 rounded-lg px-3 py-2 text-xs text-white placeholder-slate-500 focus:outline-none focus:border-emerald-500"
                   />
                 </div>

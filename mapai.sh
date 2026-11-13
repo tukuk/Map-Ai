@@ -8,9 +8,9 @@ set -e
 PROJECT_ROOT="/home/tukuk/AndroidStudioProjects/MapAi"
 WIKI_DIR="/home/tukuk/AndroidStudioProjects/MapAi-wiki"
 BACKEND_DIR="$PROJECT_ROOT/backend"
-GITHUB_REPO="fevian448/Map-Ai"
-GITHUB_PAGES_URL="https://fevian448.github.io/Map-Ai/"
-GITHUB_ACTIONS_URL="https://github.com/fevian448/Map-Ai/actions"
+GITHUB_REPO="tukuk/Map-Ai"
+GITHUB_PAGES_URL="https://tukuk.github.io/Map-Ai/"
+GITHUB_ACTIONS_URL="https://github.com/tukuk/Map-Ai/actions"
 
 # Colors
 RED='\033[0;31m'

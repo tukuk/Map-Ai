@@ -225,7 +225,7 @@ generate_secrets_template() {
     
     cat > "$PROJECT/.github/secrets.example" << EOF
 # GitHub Actions Secrets
-# Add these in: https://github.com/fevian448/Map-Ai/settings/secrets/actions
+# Add these in: https://github.com/tukuk/Map-Ai/settings/secrets/actions
 
 # Android Signing
 # SIGNING_KEY_STORE_PATH=app/mapai-release.keystore
@@ -246,7 +246,7 @@ EOF
     
     ok "Created: $PROJECT/.github/secrets.example"
     echo ""
-    info "Add secrets at: https://github.com/fevian448/Map-Ai/settings/secrets/actions"
+    info "Add secrets at: https://github.com/tukuk/Map-Ai/settings/secrets/actions"
     echo ""
 }
 
@@ -302,10 +302,10 @@ show_all_ids() {
     echo "=========================================="
     echo "  GITHUB"
     echo "=========================================="
-    echo "  Repository:        https://github.com/fevian448/Map-Ai"
-    echo "  Pages:             https://fevian448.github.io/Map-Ai/"
-    echo "  Actions:           https://github.com/fevian448/Map-Ai/actions"
-    echo "  Wiki:              https://github.com/fevian448/Map-Ai/wiki"
+    echo "  Repository:        https://github.com/tukuk/Map-Ai"
+    echo "  Pages:             https://tukuk.github.io/Map-Ai/"
+    echo "  Actions:           https://github.com/tukuk/Map-Ai/actions"
+    echo "  Wiki:              https://github.com/tukuk/Map-Ai/wiki"
     echo ""
     
     echo "=========================================="
@@ -333,8 +333,8 @@ setup_all() {
     info "Next steps:"
     echo "  1. Replace AdMob test IDs with real IDs from https://admob.google.com"
     echo "  2. Generate keystore: ./config.sh generate-keystore"
-    echo "  3. Enable GitHub Pages: https://github.com/fevian448/Map-Ai/settings/pages"
-    echo "  4. Enable Wiki: https://github.com/fevian448/Map-Ai/wiki"
+    echo "  3. Enable GitHub Pages: https://github.com/tukuk/Map-Ai/settings/pages"
+    echo "  4. Enable Wiki: https://github.com/tukuk/Map-Ai/wiki"
     echo "  5. Deploy backend: ./deploy.sh"
     echo ""
 }

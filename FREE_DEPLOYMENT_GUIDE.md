@@ -20,7 +20,7 @@ GitHub Pages hosts static websites directly from your GitHub repository.
 
 1. **Go to Repository Settings**
    ```
-   https://github.com/fevian448/Map-Ai/settings/pages
+   https://github.com/tukuk/Map-Ai/settings/pages
    ```
 
 2. **Configure Source**
@@ -29,11 +29,11 @@ GitHub Pages hosts static websites directly from your GitHub repository.
    - Click **Save**
 
 3. **Verify Deployment**
-   - Check **Actions** tab: https://github.com/fevian448/Map-Ai/actions
+   - Check **Actions** tab: https://github.com/tukuk/Map-Ai/actions
    - Wait for `Deploy Live View to GitHub Pages` workflow to complete
    - Your site is live at:
      ```
-     https://fevian448.github.io/Map-Ai/
+     https://tukuk.github.io/Map-Ai/
      ```
 
 ### What's Deployed?
@@ -59,7 +59,7 @@ GitHub Releases store your app files with version history.
 
 2. **Access APKs**
    ```
-   https://github.com/fevian448/Map-Ai/releases
+   https://github.com/tukuk/Map-Ai/releases
    ```
 
 3. **Download APK**
@@ -172,7 +172,7 @@ chmod +x setup-github-secrets.sh
 
 Or manually:
 ```
-https://github.com/fevian448/Map-Ai/settings/secrets/actions
+https://github.com/tukuk/Map-Ai/settings/secrets/actions
 ```
 
 **Add Secrets:**
@@ -232,7 +232,7 @@ GOOGLE_MAPS_API_KEY=YOUR_KEY
 ## ✅ Deployment Checklist
 
 ### GitHub Setup
-- [ ] Repository: https://github.com/fevian448/Map-Ai
+- [ ] Repository: https://github.com/tukuk/Map-Ai
 - [ ] Enable GitHub Pages (Settings → Pages)
 - [ ] Add all GitHub Secrets
 - [ ] Generate release keystore
@@ -277,7 +277,7 @@ GOOGLE_MAPS_API_KEY=YOUR_KEY
 ### GitHub Actions
 
 ```
-https://github.com/fevian448/Map-Ai/actions
+https://github.com/tukuk/Map-Ai/actions
 ```
 
 **Workflows:**
@@ -288,7 +288,7 @@ https://github.com/fevian448/Map-Ai/actions
 ### GitHub Pages
 
 ```
-https://github.com/fevian448/Map-Ai/settings/pages
+https://github.com/tukuk/Map-Ai/settings/pages
 ```
 
 Check:
@@ -350,7 +350,7 @@ Check:
    - Verify all workflows pass
 
 3. **Test Deployments**
-   - Visit https://fevian448.github.io/Map-Ai/
+   - Visit https://tukuk.github.io/Map-Ai/
    - Download APK from Releases
    - Connect Android app to backend
 
@@ -378,7 +378,7 @@ Check:
 - **GitHub status?** https://www.githubstatus.com
 
 **Account:** `fevianbenjo48@gmail.com`  
-**Repository:** github.com/fevian448/Map-Ai
+**Repository:** github.com/tukuk/Map-Ai
 
 ---
 

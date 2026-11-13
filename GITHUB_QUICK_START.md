@@ -13,14 +13,14 @@ chmod +x setup-github-secrets.sh
 ./setup-github-secrets.sh
 ```
 
-Or manually add to GitHub: https://github.com/fevian448/Map-Ai/settings/secrets/actions
+Or manually add to GitHub: https://github.com/tukuk/Map-Ai/settings/secrets/actions
 - `KEYSTORE_BASE64` (run: `base64 -w 0 mapai-release.keystore`)
 - `KEYSTORE_PASSWORD`
 - `KEY_PASSWORD`
 - `KEY_ALIAS`
 
 ### 3. Enable GitHub Pages
-Go to: https://github.com/fevian448/Map-Ai/settings/pages
+Go to: https://github.com/tukuk/Map-Ai/settings/pages
 - Source: GitHub Actions
 - Save
 
@@ -30,11 +30,11 @@ git push -u origin master
 ```
 
 ### 5. Watch Actions
-https://github.com/fevian448/Map-Ai/actions
+https://github.com/tukuk/Map-Ai/actions
 
 ✅ Done! Your app is now:
 - 📱 Building: APK in Releases
-- 🌐 Live: https://fevian448.github.io/Map-Ai/
+- 🌐 Live: https://tukuk.github.io/Map-Ai/
 - 🤖 Automated: CI/CD on every push
 
 ---
@@ -43,12 +43,12 @@ https://github.com/fevian448/Map-Ai/actions
 
 | What | URL |
 |-----|-----|
-| **Repository** | https://github.com/fevian448/Map-Ai |
-| **Live Web View** | https://fevian448.github.io/Map-Ai/ |
-| **Releases (APK)** | https://github.com/fevian448/Map-Ai/releases |
-| **Actions (CI/CD)** | https://github.com/fevian448/Map-Ai/actions |
-| **Secrets Config** | https://github.com/fevian448/Map-Ai/settings/secrets/actions |
-| **Pages Settings** | https://github.com/fevian448/Map-Ai/settings/pages |
+| **Repository** | https://github.com/tukuk/Map-Ai |
+| **Live Web View** | https://tukuk.github.io/Map-Ai/ |
+| **Releases (APK)** | https://github.com/tukuk/Map-Ai/releases |
+| **Actions (CI/CD)** | https://github.com/tukuk/Map-Ai/actions |
+| **Secrets Config** | https://github.com/tukuk/Map-Ai/settings/secrets/actions |
+| **Pages Settings** | https://github.com/tukuk/Map-Ai/settings/pages |
 
 ---
 

@@ -77,12 +77,12 @@ Dokumen ini menyenaraikan semua ID, kunci, dan konfigurasi yang diperlukan untuk
 
 | Item | URL / ID | Keterangan |
 |------|----------|------------|
-| **Repository** | https://github.com/fevian448/Map-Ai | Repositori utama |
-| **GitHub Pages** | https://fevian448.github.io/Map-Ai/ | Live view web |
-| **GitHub Actions** | https://github.com/fevian448/Map-Ai/actions | CI/CD workflows |
-| **Wiki** | https://github.com/fevian448/Map-Ai/wiki | Dokumentasi wiki |
-| **Issues** | https://github.com/fevian448/Map-Ai/issues | Bug reports & feature requests |
-| **Releases** | https://github.com/fevian448/Map-Ai/releases | APK releases |
+| **Repository** | https://github.com/tukuk/Map-Ai | Repositori utama |
+| **GitHub Pages** | https://tukuk.github.io/Map-Ai/ | Live view web |
+| **GitHub Actions** | https://github.com/tukuk/Map-Ai/actions | CI/CD workflows |
+| **Wiki** | https://github.com/tukuk/Map-Ai/wiki | Dokumentasi wiki |
+| **Issues** | https://github.com/tukuk/Map-Ai/issues | Bug reports & feature requests |
+| **Releases** | https://github.com/tukuk/Map-Ai/releases | APK releases |
 
 ### GitHub Actions Secrets (untuk CI/CD):
 | Secret | Keterangan |

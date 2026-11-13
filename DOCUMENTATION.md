@@ -96,10 +96,10 @@ Used for:
 
 | Component | Status | Link |
 |-----------|--------|------|
-| 📱 Android APK | ✅ Building | [Releases](https://github.com/fevian448/Map-Ai/releases) |
-| 🌐 Web Live View | ✅ Live | [GitHub Pages](https://fevian448.github.io/Map-Ai/) |
+| 📱 Android APK | ✅ Building | [Releases](https://github.com/tukuk/Map-Ai/releases) |
+| 🌐 Web Live View | ✅ Live | [GitHub Pages](https://tukuk.github.io/Map-Ai/) |
 | 🔧 Backend | ⏳ Setup Guide | [FREE_DEPLOYMENT_GUIDE.md](FREE_DEPLOYMENT_GUIDE.md) |
-| 🤖 CI/CD | ✅ Automated | [Actions](https://github.com/fevian448/Map-Ai/actions) |
+| 🤖 CI/CD | ✅ Automated | [Actions](https://github.com/tukuk/Map-Ai/actions) |
 | 📚 Documentation | ✅ Complete | You are here! |
 
 ---
@@ -230,10 +230,10 @@ git push origin master
 
 ## 📌 Important Links
 
-- **Repository:** https://github.com/fevian448/Map-Ai
-- **Live Demo:** https://fevian448.github.io/Map-Ai/
-- **Releases:** https://github.com/fevian448/Map-Ai/releases
-- **Actions:** https://github.com/fevian448/Map-Ai/actions
+- **Repository:** https://github.com/tukuk/Map-Ai
+- **Live Demo:** https://tukuk.github.io/Map-Ai/
+- **Releases:** https://github.com/tukuk/Map-Ai/releases
+- **Actions:** https://github.com/tukuk/Map-Ai/actions
 - **Developer Account:** fevianbenjo48@gmail.com
 
 ---

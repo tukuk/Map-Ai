@@ -4,8 +4,8 @@
 
 It is designed to run seamlessly across all operating systems: **Android, iOS, Windows, Linux, macOS, Huawei (HarmonyOS), and Smart TVs (Android TV, Fire TV, Apple TV, WebOS, Tizen)**.
 
-🚀 **Live Web View Demo:** [https://fevian448.github.io/Map-Ai/](https://fevian448.github.io/Map-Ai/)  
-📦 **GitHub Repository:** [https://github.com/fevian448/Map-Ai](https://github.com/fevian448/Map-Ai)
+🚀 **Live Web View Demo:** [https://tukuk.github.io/Map-Ai/](https://tukuk.github.io/Map-Ai/)  
+📦 **GitHub Repository:** [https://github.com/tukuk/Map-Ai](https://github.com/tukuk/Map-Ai)
 
 ---
 
@@ -119,7 +119,7 @@ Run the full-stack web + API + Socket.IO server directly on your server IP or `t
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/fevian448/Map-Ai.git
+git clone https://github.com/tukuk/Map-Ai.git
 cd Map-Ai
 
 # 2. Install dependencies
